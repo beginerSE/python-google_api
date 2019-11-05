@@ -1,3 +1,5 @@
+# 過去30日間のURL・ページタイトル・ページビュー・滞在時間のデータをcsvに出力するスクリプト
+
 import pandas as pd
 from apiclient.discovery import build
 from oauth2client.service_account import ServiceAccountCredentials
